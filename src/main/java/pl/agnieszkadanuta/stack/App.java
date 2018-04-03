@@ -1,4 +1,4 @@
-package pl.dominisz.stack;
+package pl.agnieszkadanuta.stack;
 
 /**
  * http://dominisz.pl
